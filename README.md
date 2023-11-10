@@ -11,27 +11,27 @@ These instructions will help you set up and deploy the project on your local mac
 #### Enabling Google Places API and JavaScript Maps API
 To use the Google Places API and JavaScript Maps API in your project, you need to enable these APIs through the Google Cloud Console and obtain API keys. Follow these steps:
 
-##### Enabling Google Places API
+#### Enabling Google Places API
 Go to the Google Cloud Console: 
 
 Visit the Google Cloud Console(https://console.cloud.google.com/) .
 
-##### Create or Select a Project:
+#### Create or Select a Project:
 
 If you haven't already created a project, click on the project selector at the top of the page and create a new project. Otherwise, select an existing project from the list.
 
-###### Enable the Google Places API and JavaScript Maps API:
-In the Cloud Console, click on the navigation menu (☰) on the top left.
-Navigate to "APIs & Services" > "Library."
-In the "API Library" page, search for "Google Places API" and select it.
-Click the "Enable" button.
-And also search for "Maps JavaScript API" and select it.
-Click the "Enable" button.
-Create Credentials:
+#### Enable the Google Places API and JavaScript Maps API:
+- In the Cloud Console, click on the navigation menu (☰) on the top left.
+- Navigate to "APIs & Services" > "Library."
+- In the "API Library" page, search for "Google Places API" and select it.
+- Click the "Enable" button.
+- And also search for "Maps JavaScript API" and select it.
+- Click the "Enable" button.
 
-After enabling the API, go back to the navigation menu and navigate to "APIs & Services" > "Credentials."
-Click the "Create Credentials" dropdown and select "API Key."
-Your API key is now generated.
+#### Create Credentials:
+- After enabling the API, go back to the navigation menu and navigate to "APIs & Services" > "Credentials."
+- Click the "Create Credentials" dropdown and select "API Key."
+- Your API key is now generated.
 
 
 ### Installing
